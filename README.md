@@ -3,3 +3,6 @@ ts my fallout badge, we make a badge for our hackclub trip to Shenzhen
 
 it has a usb edge connector with LEDs
 you need to use 18 0805 220 ohm resistors and 18 0805 smd LEDs
+
+
+popo on slack
